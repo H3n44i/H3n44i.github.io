@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a:link{
+    color: seagreen;
+    text-decoration: none;
+}
+a:hover{
+    color: salmon;
+}
+.oxi a{
+    color: turquoise;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.oxi a:hover{
+    color: yellow;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    text-transform: uppercase;
+    background: rgb(233, 167, 24);
+}
+#unc{
+    margin-left: 35%;
+    text-transform: uppercase;
+}
+.oxi{
+    text-align: center;
+    border: 1xp solid rgb(22, 157, 161);
+    background: rgb(233, 167, 24);
+    border-bottom: 1px solid black;
+}
+
+img{
+    display: block;
+    margin: auto;
+    background
+}
+
+.menu{
+    text-align: none;
+    text-align: center;
+    
+}
+.art-mover{
+    text-align: center;
+    width:70%;
+    margin: 0 auto;
+}
+.art-mover h2{
+    float: left;
+    border-bottom: 2px solid rgb(44, 136, 143);
+    padding-bottom: 5px;
+    font-size: 1,5em;
+    text-transform: uppercase;
+}
+article{
+    padding: 20px 0;
+    border-bottom: 1px double rgb(44, 136, 143);
+}
+article p{
+    margin-left: 30%;
+    text-align: left;
+}
+article p, article ul{
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    line-height: 1,3em;
+    margin-bottom: 1,6em;
+
+}
+article ul li{
+    margin-left: 15px;
+    list-style: square;
+    list-style: none;
+}
+footer{
+    text-align: center;
+    margin-top: 2em;
+    padding: 1em;
+    background: rgb(233, 167, 24);;
+    color: rgb(0, 0, 0); 
+}
